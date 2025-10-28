@@ -17,7 +17,7 @@ All images from Websites are organized by category. e.g. ?.
 
 **This repo is for educational use only.**
 
-**All content found within this repo is the property of The Pokemon Company, Niantic and online source.**
+**All content found within this repo is the property of The Pokemon Company, Scopely and in the past Niantic and other online source.**
 
 **Retro John 86 did create and did not create or modify images found within this repo, even though they have custom names and all copyright belongs to the respective companies and sites.**
 
